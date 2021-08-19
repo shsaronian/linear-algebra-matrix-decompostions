@@ -1,2 +1,2 @@
 # linear-algebra-matrix-decompostions
-Common Matrix Decompositions in Linear Algebra Implemented from Scratch
+Common Matrix Decompositions in Linear Algebra Implemented from Scratch. Includes QR decomposition using three methods: the Grahm-Shmidt process, the Householder Reflections, and the Givens Transformations. Then, the SVD decomposition of a given non-square matrix is implemented using the QR algorithm from the previous phase, and the singular values and vectors are calculated.
